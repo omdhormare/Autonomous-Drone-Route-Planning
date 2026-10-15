@@ -1,0 +1,12 @@
+
+build/
+*.exe
+*.dll
+*.obj
+*.o
+.vscode/
+.vs/
+__pycache__/
+*.log
+ucrt64/
+mingw64/
